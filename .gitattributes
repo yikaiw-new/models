@@ -1,0 +1,5 @@
+resnet18-2-32.zip filter=lfs diff=lfs merge=lfs -text
+resnet50-2-2.zip filter=lfs diff=lfs merge=lfs -text
+resnet50-2-32.zip filter=lfs diff=lfs merge=lfs -text
+resnet50.zip filter=lfs diff=lfs merge=lfs -text
+resnet18-2-2.zip filter=lfs diff=lfs merge=lfs -text
